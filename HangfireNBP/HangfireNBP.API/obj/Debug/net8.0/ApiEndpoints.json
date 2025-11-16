@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "HangfireNBP.API.Controllers.ExchangeRatesController",
+    "Method": "GetTables",
+    "RelativePath": "api/ExchangeRates/tables",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IList\u00601[[Domain.Entities.ExchangeRateTable, HangfireNBP.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

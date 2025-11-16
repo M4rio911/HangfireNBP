@@ -1,0 +1,283 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC6AF04-C288-4AC1-AEA6-3AA8AED46EF1}|HangfireNBP.API\\HangfireNBP.API.csproj|c:\\git_kraken\\hangfirenbp\\hangfirenbp\\hangfirenbp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2DC6AF04-C288-4AC1-AEA6-3AA8AED46EF1}|HangfireNBP.API\\HangfireNBP.API.csproj|solutionrelative:hangfirenbp.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC6AF04-C288-4AC1-AEA6-3AA8AED46EF1}|HangfireNBP.API\\HangfireNBP.API.csproj|c:\\git_kraken\\hangfirenbp\\hangfirenbp\\hangfirenbp.api\\jobs\\fetchnbpdatajob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC6AF04-C288-4AC1-AEA6-3AA8AED46EF1}|HangfireNBP.API\\HangfireNBP.API.csproj|solutionrelative:hangfirenbp.api\\jobs\\fetchnbpdatajob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F24EF08-3D6B-3086-EBD4-45118605200A}|HangfireNBP.Application\\HangfireNBP.Application.csproj|c:\\git_kraken\\hangfirenbp\\hangfirenbp\\hangfirenbp.application\\services\\nbpexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F24EF08-3D6B-3086-EBD4-45118605200A}|HangfireNBP.Application\\HangfireNBP.Application.csproj|solutionrelative:hangfirenbp.application\\services\\nbpexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA5F100-0422-B53A-376C-DADD343548A0}|HangfireNBP.Domain\\HangfireNBP.Domain.csproj|c:\\git_kraken\\hangfirenbp\\hangfirenbp\\hangfirenbp.domain\\entities\\exchangeratetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA5F100-0422-B53A-376C-DADD343548A0}|HangfireNBP.Domain\\HangfireNBP.Domain.csproj|solutionrelative:hangfirenbp.domain\\entities\\exchangeratetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6EA5F100-0422-B53A-376C-DADD343548A0}|HangfireNBP.Domain\\HangfireNBP.Domain.csproj|c:\\git_kraken\\hangfirenbp\\hangfirenbp\\hangfirenbp.domain\\entities\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6EA5F100-0422-B53A-376C-DADD343548A0}|HangfireNBP.Domain\\HangfireNBP.Domain.csproj|solutionrelative:hangfirenbp.domain\\entities\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC6AF04-C288-4AC1-AEA6-3AA8AED46EF1}|HangfireNBP.API\\HangfireNBP.API.csproj|c:\\git_kraken\\hangfirenbp\\hangfirenbp\\hangfirenbp.api\\controllers\\exchangeratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC6AF04-C288-4AC1-AEA6-3AA8AED46EF1}|HangfireNBP.API\\HangfireNBP.API.csproj|solutionrelative:hangfirenbp.api\\controllers\\exchangeratescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F24EF08-3D6B-3086-EBD4-45118605200A}|HangfireNBP.Application\\HangfireNBP.Application.csproj|c:\\git_kraken\\hangfirenbp\\hangfirenbp\\hangfirenbp.application\\interfaces\\inbpexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F24EF08-3D6B-3086-EBD4-45118605200A}|HangfireNBP.Application\\HangfireNBP.Application.csproj|solutionrelative:hangfirenbp.application\\interfaces\\inbpexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC6AF04-C288-4AC1-AEA6-3AA8AED46EF1}|HangfireNBP.API\\HangfireNBP.API.csproj|c:\\git_kraken\\hangfirenbp\\hangfirenbp\\hangfirenbp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC6AF04-C288-4AC1-AEA6-3AA8AED46EF1}|HangfireNBP.API\\HangfireNBP.API.csproj|solutionrelative:hangfirenbp.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A6780AF-9145-9383-DBEE-7D5C10193C16}|HangfireNBP.Infrastructure\\HangfireNBP.Infrastructure.csproj|c:\\git_kraken\\hangfirenbp\\hangfirenbp\\hangfirenbp.infrastructure\\extensions\\infrastructureextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A6780AF-9145-9383-DBEE-7D5C10193C16}|HangfireNBP.Infrastructure\\HangfireNBP.Infrastructure.csproj|solutionrelative:hangfirenbp.infrastructure\\extensions\\infrastructureextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 56,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:747933807:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:254354193:0:{71f361cc-493f-47c0-923f-f2570b6f8618}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{5a4e9529-b6a0-46b5-be4f-0f0b239bc0eb}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.API\\appsettings.json",
+              "RelativeDocumentMoniker": "HangfireNBP.API\\appsettings.json",
+              "ToolTip": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.API\\appsettings.json",
+              "RelativeToolTip": "HangfireNBP.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-16T19:37:19.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExchangeRate.cs",
+              "DocumentMoniker": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.Domain\\Entities\\ExchangeRate.cs",
+              "RelativeDocumentMoniker": "HangfireNBP.Domain\\Entities\\ExchangeRate.cs",
+              "ToolTip": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.Domain\\Entities\\ExchangeRate.cs",
+              "RelativeToolTip": "HangfireNBP.Domain\\Entities\\ExchangeRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:35:27.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ExchangeRateTable.cs",
+              "DocumentMoniker": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.Domain\\Entities\\ExchangeRateTable.cs",
+              "RelativeDocumentMoniker": "HangfireNBP.Domain\\Entities\\ExchangeRateTable.cs",
+              "ToolTip": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.Domain\\Entities\\ExchangeRateTable.cs",
+              "RelativeToolTip": "HangfireNBP.Domain\\Entities\\ExchangeRateTable.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAmwAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:32:21.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FetchNbpDataJob.cs",
+              "DocumentMoniker": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.API\\Jobs\\FetchNbpDataJob.cs",
+              "RelativeDocumentMoniker": "HangfireNBP.API\\Jobs\\FetchNbpDataJob.cs",
+              "ToolTip": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.API\\Jobs\\FetchNbpDataJob.cs",
+              "RelativeToolTip": "HangfireNBP.API\\Jobs\\FetchNbpDataJob.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:25:00.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NbpExchangeRateService.cs",
+              "DocumentMoniker": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.Application\\Services\\NbpExchangeRateService.cs",
+              "RelativeDocumentMoniker": "HangfireNBP.Application\\Services\\NbpExchangeRateService.cs",
+              "ToolTip": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.Application\\Services\\NbpExchangeRateService.cs",
+              "RelativeToolTip": "HangfireNBP.Application\\Services\\NbpExchangeRateService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwGAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:22:17.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "INbpExchangeRateService.cs",
+              "DocumentMoniker": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.Application\\Interfaces\\INbpExchangeRateService.cs",
+              "RelativeDocumentMoniker": "HangfireNBP.Application\\Interfaces\\INbpExchangeRateService.cs",
+              "ToolTip": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.Application\\Interfaces\\INbpExchangeRateService.cs",
+              "RelativeToolTip": "HangfireNBP.Application\\Interfaces\\INbpExchangeRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:22:05.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExchangeRatesController.cs",
+              "DocumentMoniker": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.API\\Controllers\\ExchangeRatesController.cs",
+              "RelativeDocumentMoniker": "HangfireNBP.API\\Controllers\\ExchangeRatesController.cs",
+              "ToolTip": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.API\\Controllers\\ExchangeRatesController.cs",
+              "RelativeToolTip": "HangfireNBP.API\\Controllers\\ExchangeRatesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:21:03.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.API\\Program.cs",
+              "RelativeDocumentMoniker": "HangfireNBP.API\\Program.cs",
+              "ToolTip": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.API\\Program.cs",
+              "RelativeToolTip": "HangfireNBP.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:00:53.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InfrastructureExtensions.cs",
+              "DocumentMoniker": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.Infrastructure\\Extensions\\InfrastructureExtensions.cs",
+              "RelativeDocumentMoniker": "HangfireNBP.Infrastructure\\Extensions\\InfrastructureExtensions.cs",
+              "ToolTip": "C:\\GIT_KRAKEN\\HangfireNBP\\HangfireNBP\\HangfireNBP.Infrastructure\\Extensions\\InfrastructureExtensions.cs",
+              "RelativeToolTip": "HangfireNBP.Infrastructure\\Extensions\\InfrastructureExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-16T19:19:13.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 168,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 73,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{605322a2-17ae-43f4-b60f-766556e46c87}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 34,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 60,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

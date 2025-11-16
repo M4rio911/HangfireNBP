@@ -1,0 +1,16 @@
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\bin\Debug\net8.0\HangfireNBP.Application.deps.json
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\bin\Debug\net8.0\HangfireNBP.Application.dll
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\bin\Debug\net8.0\HangfireNBP.Application.pdb
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\obj\Debug\net8.0\HangfireNBP.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\obj\Debug\net8.0\HangfireNBP.Application.AssemblyInfoInputs.cache
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\obj\Debug\net8.0\HangfireNBP.Application.AssemblyInfo.cs
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\obj\Debug\net8.0\HangfireNBP.Application.csproj.CoreCompileInputs.cache
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\obj\Debug\net8.0\HangfireNBP.Application.sourcelink.json
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\obj\Debug\net8.0\HangfireNBP.Application.dll
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\obj\Debug\net8.0\refint\HangfireNBP.Application.dll
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\obj\Debug\net8.0\HangfireNBP.Application.pdb
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\obj\Debug\net8.0\ref\HangfireNBP.Application.dll
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\bin\Debug\net8.0\HangfireNBP.Domain.dll
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\bin\Debug\net8.0\HangfireNBP.Domain.pdb
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\obj\Debug\net8.0\HangfireNBP.Application.csproj.AssemblyReference.cache
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Application\obj\Debug\net8.0\Hangfire.E41E43E9.Up2Date

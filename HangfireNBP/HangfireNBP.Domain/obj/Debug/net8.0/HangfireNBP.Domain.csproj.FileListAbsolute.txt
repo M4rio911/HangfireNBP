@@ -1,0 +1,12 @@
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Domain\bin\Debug\net8.0\HangfireNBP.Domain.deps.json
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Domain\bin\Debug\net8.0\HangfireNBP.Domain.dll
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Domain\bin\Debug\net8.0\HangfireNBP.Domain.pdb
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Domain\obj\Debug\net8.0\HangfireNBP.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Domain\obj\Debug\net8.0\HangfireNBP.Domain.AssemblyInfoInputs.cache
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Domain\obj\Debug\net8.0\HangfireNBP.Domain.AssemblyInfo.cs
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Domain\obj\Debug\net8.0\HangfireNBP.Domain.csproj.CoreCompileInputs.cache
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Domain\obj\Debug\net8.0\HangfireNBP.Domain.sourcelink.json
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Domain\obj\Debug\net8.0\HangfireNBP.Domain.dll
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Domain\obj\Debug\net8.0\refint\HangfireNBP.Domain.dll
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Domain\obj\Debug\net8.0\HangfireNBP.Domain.pdb
+C:\GIT_KRAKEN\HangfireNBP\HangfireNBP\HangfireNBP.Domain\obj\Debug\net8.0\ref\HangfireNBP.Domain.dll
