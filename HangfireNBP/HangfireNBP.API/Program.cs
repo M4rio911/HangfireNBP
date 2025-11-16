@@ -28,6 +28,8 @@ builder.Services.AddCors(options =>
     });
 });
 
+builder.Services.AddTransient<FetchNbpDataJob>();
+
 var app = builder.Build();
 
 app.UseCors();
@@ -44,6 +46,6 @@ app.UseSwaggerUI(c =>
 });
 
 //Jobs
-RecurringJob.AddOrUpdate<FetchNbpDataJob>("fetch-nbp-data",job => job.Execute(), builder.Configuration["JobsSettings:FetchNbpRates"]);
+RecurringJob.AddOrUpdate<FetchNbpDataJob>("fetch-nbp-data",job => job.Execute("b"), builder.Configuration["JobsSettings:FetchNbpRates"]);
 
 app.Run();

@@ -18,5 +18,33 @@
         "StatusCode": 200
       }
     ]
+  },
+  {
+    "ContainingType": "HangfireNBP.API.Controllers.ManualSyncController",
+    "Method": "ClearRates",
+    "RelativePath": "api/ManualSync/clear",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [],
+    "Description": "clear db data"
+  },
+  {
+    "ContainingType": "HangfireNBP.API.Controllers.ManualSyncController",
+    "Method": "SyncRates",
+    "RelativePath": "api/ManualSync/sync",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tableToSync",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [],
+    "Description": "manual sync for tables a / b"
   }
 ]

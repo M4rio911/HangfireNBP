@@ -12,12 +12,12 @@ public class FetchNbpDataJob
         _logger = logger;
     }
 
-    public async Task Execute()
+    public async Task Execute(string table)
     {
-        _logger.LogInformation("Fetching NBP Exchange Rate Table B…");
+        _logger.LogInformation($"Start fetching NBP Exchange Rate Table {table}…");
 
-        await _exchangeRateService.SyncExchangeRatesAsync("b");
+        await _exchangeRateService.SyncExchangeRatesAsync(table);
 
-        _logger.LogInformation("End fetching NBP Exchange Rate Table B…");
+        _logger.LogInformation($"End fetching NBP Exchange Rate Table {table}…");
     }
 }
